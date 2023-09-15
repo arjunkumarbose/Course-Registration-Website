@@ -1,0 +1,84 @@
+[
+      {
+        "id": 1,
+        "name": "Programming in Python",
+        "image": "https://i.ibb.co/FKnCnDy/wallpaperflare-com-wallpaper.jpg",
+        "description":
+          "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": "200",
+        "creditHour": "2hrs"
+      },
+      {
+        "id": 2,
+        "name": "Introduction to ReactJs",
+        "image": "https://i.ibb.co/fHwtxmh/wallpaperflare-com-wallpaper-1.jpg",
+        "description":
+          "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": "400",
+        "creditHour": "3hrs"
+      },
+      {
+        "id": 3,
+        "name": "Advanced Machine Learning",
+        "image": "https://i.ibb.co/jHpXs4m/6550636.jpg",
+        "description":
+          "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": "900",
+        "creditHour": "8hrs"
+      },
+      {
+        "id": 4,
+        "name": "Cyber Security and Ethical Hacking",
+        "image": "https://i.ibb.co/QpTYxcg/shutterstock-505066678.jpg",
+        "description":
+          "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": "1200",
+        "creditHour": "6hrs"
+      },
+      {
+        "id": 5,
+        "name": "Object Oriented Programming in C#",
+        "image": "https://i.ibb.co/12cCjkH/12-csharp-wallpaper.jpg",
+        "description":
+          "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": "500",
+        "creditHour": "3hrs"
+      },
+      {
+        "id": 6,
+        "name": "Advanced programming using NodeJs and NextJs",
+        "image": "https://i.ibb.co/19qq4Zy/wallpaperflare-com-wallpaper-2.jpg",
+        "description":
+          "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": "1400",
+        "creditHour": "10hrs"
+      },
+      {
+        "id": 7,
+        "name": "Introduction to Microsoft ASP .NET ",
+        "image": "https://i.ibb.co/7GK47Hs/Microsoft-NET-1366x768.png",
+        "description":
+          "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": "400",
+        "creditHour": "5hrs"
+      },
+      {
+        "id": 8,
+        "name": "Computer Vision and Image Processing ",
+        "image": "https://i.ibb.co/1rCZcvz/2.jpg",
+        "description":
+          "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": "600",
+        "creditHour": "6hrs"
+      },
+      {
+        "id": 9,
+        "name": "Get Started with Amazon Web Services (AWS) ",
+        "image": "https://i.ibb.co/2vmMYc4/1.jpg",
+        "description":
+          "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": "900",
+        "creditHour": "3hrs"
+      }
+
+      ]

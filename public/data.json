@@ -4,7 +4,7 @@
         "name": "Programming in Python",
         "image": "https://i.ibb.co/FKnCnDy/wallpaperflare-com-wallpaper.jpg",
         "description":
-          "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+          "Learn Python, a powerful and versatile programming language, in this concise and practical course.",
         "price": "200",
         "creditHour": "2hrs"
       },
@@ -13,7 +13,7 @@
         "name": "Introduction to ReactJs",
         "image": "https://i.ibb.co/fHwtxmh/wallpaperflare-com-wallpaper-1.jpg",
         "description":
-          "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+          "Learn ReactJs, a popular JavaScript library for building user interfaces. This course covers the basics of components, hooks, and routing.",
         "price": "400",
         "creditHour": "3hrs"
       },
@@ -22,7 +22,7 @@
         "name": "Advanced Machine Learning",
         "image": "https://i.ibb.co/jHpXs4m/6550636.jpg",
         "description":
-          "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+          "Learn the theory and practice of cutting-edge machine learning techniques in this intensive course.",
         "price": "900",
         "creditHour": "8hrs"
       },
@@ -31,7 +31,7 @@
         "name": "Cyber Security and Ethical Hacking",
         "image": "https://i.ibb.co/QpTYxcg/shutterstock-505066678.jpg",
         "description":
-          "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+          "Learn how to protect networks and systems from cyberattacks and how to perform ethical hacking in this course.",
         "price": "1200",
         "creditHour": "6hrs"
       },
@@ -40,7 +40,7 @@
         "name": "Object Oriented Programming in C#",
         "image": "https://i.ibb.co/12cCjkH/12-csharp-wallpaper.jpg",
         "description":
-          "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+          "Principles and practices of object-oriented programming. You will learn how to design, implement, and test reusable components.",
         "price": "500",
         "creditHour": "3hrs"
       },
@@ -58,7 +58,7 @@
         "name": "Introduction to Microsoft ASP .NET ",
         "image": "https://i.ibb.co/7GK47Hs/Microsoft-NET-1366x768.png",
         "description":
-          "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+          "Learn to build fast and scalable web applications with NodeJs and NextJs, the most popular frameworks for backend and frontend development.",
         "price": "400",
         "creditHour": "5hrs"
       },
@@ -67,7 +67,7 @@
         "name": "Computer Vision and Image Processing ",
         "image": "https://i.ibb.co/1rCZcvz/2.jpg",
         "description":
-          "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+          "Fundamentals of computer vision and image processing, such as image representation, filtering, segmentation, feature extraction, and recognition.",
         "price": "600",
         "creditHour": "6hrs"
       },
@@ -76,7 +76,7 @@
         "name": "Get Started with Amazon Web Services (AWS) ",
         "image": "https://i.ibb.co/2vmMYc4/1.jpg",
         "description":
-          "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+          "Learn AWS basics and best practices in this introductory course. Gain hands-on experience with cloud computing and services.",
         "price": "900",
         "creditHour": "3hrs"
       }
